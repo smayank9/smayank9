@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayank Singh
-- 🌱 I’m currently learning Unix, Docker , Kubernative , Azure.
+- 🌱 I’m currently learning Unix , Shell scripting , Docker , Kubernative , Azure.
 
 <!---
 smayank9/smayank9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
